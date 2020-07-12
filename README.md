@@ -1,6 +1,11 @@
 # Dotnet-GraphQL.Code.Generator
 Generate GraphQL classes from .net Domain Classes.
 
+Packages:
+GraphQL.Code.Generator.Core (.Net Core)
+GraphQL.Extension.Core  (.Net Core)
+GraphQL.Code.Generator.Net (.Net Framework)
+GraphQL.Extension.Net (.Net Framework).
 
 ///////////////////////////////////////  Pagination and Search Example //////////////////////////////////////////////////////////////////////
 
