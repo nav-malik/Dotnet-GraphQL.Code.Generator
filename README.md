@@ -5,11 +5,15 @@ Packages:
 
 GraphQL.Code.Generator.Core (.Net Core).
 
-GraphQL.Extension.Core  (.Net Core).
+GraphQL.Extension.Linq.Core  (.Net Core).
+
+GraphQL.Extension.Types.Core  (.Net Core).
 
 GraphQL.Code.Generator.Net (.Net Framework).
 
-GraphQL.Extension.Net (.Net Framework).
+GraphQL.Extension.Linq.Net (.Net Framework).
+
+GraphQL.Extension.Types.Net (.Net Framework).
 
 ///////////////////////////////////////  Pagination and Search Example //////////////////////////////////////////////////////////////////////
 
